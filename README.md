@@ -26,7 +26,7 @@ My currently work use kotlin and swift, and sometimes when build game for app i 
 
 
 ### Language & Tools
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,kotlin,vscode,unity,godot,dart,flutter,ktor,mysql,firebase,java,swift,html,css,php,laravel,js,ts,nodejs,vuejs,nuxtjs,express,heroku,nginx,gcp,git,github,ps,ai,figma,discord,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,kotlin,vscode,unity,phaser,construct,godot,dart,flutter,ktor,mysql,firebase,java,swift,html,css,php,laravel,js,ts,nodejs,vuejs,nuxtjs,express,heroku,nginx,gcp,git,github,ps,ai,figma,discord,linux)](https://skillicons.dev)
 
 ### My Github Stats
 
