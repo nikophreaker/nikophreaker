@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Niko - aka NikxPhreaker or NikoPhreaker
+### Hi there 👋, I'm Niko - aka NikxPhreaker
 
 **I'm a Mobile Developer & Game Developer**
 
